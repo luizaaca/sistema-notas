@@ -71,7 +71,7 @@
             // 
             this.textBoxNomeCliente.Location = new System.Drawing.Point(100, 9);
             this.textBoxNomeCliente.Name = "textBoxNomeCliente";
-            this.textBoxNomeCliente.Size = new System.Drawing.Size(915, 20);
+            this.textBoxNomeCliente.Size = new System.Drawing.Size(931, 20);
             this.textBoxNomeCliente.TabIndex = 1;
             // 
             // label4
@@ -94,7 +94,7 @@
             // 
             // buttonGerarNotaFiscal
             // 
-            this.buttonGerarNotaFiscal.Location = new System.Drawing.Point(888, 440);
+            this.buttonGerarNotaFiscal.Location = new System.Drawing.Point(904, 440);
             this.buttonGerarNotaFiscal.Name = "buttonGerarNotaFiscal";
             this.buttonGerarNotaFiscal.Size = new System.Drawing.Size(127, 23);
             this.buttonGerarNotaFiscal.TabIndex = 8;
